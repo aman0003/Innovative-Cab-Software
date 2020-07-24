@@ -1,3 +1,2 @@
 # Taxi Fare Prediction on Web
-A Software for Cabs which comprises most innovative ideas to provide a best-personalized user experience. Imagine when a person sit in a cab, he would get to listen his favorite song or the screen shows him the recommended songs while playing his favourite one. Or imagine the person would be recommended with coffee ordering or any food item depending on the distance and time the cab will be taking. There will be many more features in that software which will ensure a best possible personalized ride which in return help the cab user to fresh his mood or retain his mindset. 
-Currently, we've made a taxi fare prediction model and deployed on a local host using Django Framework.
+With a heavy dataset of Taxi Fares in New York city, I would predict the Fare with the input of Pick & Drop location on the Web using ML Model.
